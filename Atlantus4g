@@ -155,7 +155,7 @@
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {

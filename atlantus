@@ -27,7 +27,7 @@
   "Servers": [
     {
       "Name": "SERVIDOR",
-      "TYPE": "FREE",
+      "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "vultr.cort38.tk",
       "CheckUser": "http://216.238.110.170:5454/checkUser",

@@ -65,7 +65,7 @@
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.5.175",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
@@ -75,7 +75,7 @@
       "SNI": "emartim.com.br",
       "TlsIP": "104.21.27.243",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
@@ -85,7 +85,7 @@
       "SNI": "cutim.com.br",
       "TlsIP": "104.21.4.149",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
@@ -165,7 +165,7 @@
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "714341g41.secure0121.hubspot.net",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
@@ -175,7 +175,7 @@
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "199.60.103.228",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {

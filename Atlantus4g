@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "BOTAR LINK DO SMS AQUI",
@@ -30,7 +30,7 @@
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "azure.piuma.xyz",
-      "CheckUser": "http://216.238.110.170:5454/checkUser",
+      "CheckUser": "http://20.195.162.150:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -65,7 +65,7 @@
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.5.175",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -75,7 +75,7 @@
       "SNI": "emartim.com.br",
       "TlsIP": "104.21.27.243",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -85,7 +85,7 @@
       "SNI": "cutim.com.br",
       "TlsIP": "104.21.4.149",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -155,7 +155,7 @@
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -165,7 +165,7 @@
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "714341g41.secure0121.hubspot.net",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -175,7 +175,7 @@
       "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "199.60.103.228",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {

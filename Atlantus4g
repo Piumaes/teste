@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "utv1521@gmail.com",
   "UrlContato": "https://wa.me/qr/O46WG3K2HWK4N1",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "true",
+  "CheckUser": "http://20.195.162.150:5454",
   "Udp": [
     {
       "Porta": "7100"

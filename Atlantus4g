@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "Nova Atualização Disponível Atlantus4G",
+  "Version": "1.0.5",
+  "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "utv1521@gmail.com",
@@ -109,31 +109,31 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO [01]",
+      "Name": "🟣VIVO [DIRECT 01]",
       "FLAG": "vivo",
-      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "money-staging.infinitepay.io",
-      "TlsIP": "104.18.7.80",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.24.25.34",
+      "ProxyPort": "80",
+      "Info": "Proxy"
    },
     {
-      "Name": "🟣VIVO [02]",
+      "Name": "🟣VIVO [DIRECT 02]",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "carrinho-pos-familia.vivo.com.br",
-      "TlsIP": "104.18.6.80",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.64.195.2",
+      "ProxyPort": "80",
+      "Info": "Proxy"
    },
     {
       "Name": "🟣VIVO [03]",
       "FLAG": "vivo",
-      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "help.pornhub.com",
-      "TlsIP": "162.159.135.63",
+      "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "money-staging.infinitepay.io",
+      "TlsIP": "172.64.194.2",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -141,9 +141,9 @@
     {
       "Name": "🟣VIVO [04]",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "support.uptodown.com",
-      "TlsIP": "162.159.136.63",
+      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "carrinho-pos-familia.vivo.com.br",
+      "TlsIP": "172.64.131.2",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -151,9 +151,9 @@
     {
       "Name": "🟣VIVO [05]",
       "FLAG": "vivo",
-      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "support.pokemon.com",
-      "TlsIP": "172.64.130.2",
+      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "help.pornhub.com",
+      "TlsIP": "104.24.24.34",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -161,9 +161,9 @@
     {
       "Name": "🟣VIVO [06]",
       "FLAG": "vivo",
-      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "checkout.mediafire.com",
-      "TlsIP": "104.24.11.16",
+      "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.uptodown.com",
+      "TlsIP": "104.21.11.51",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -171,9 +171,49 @@
     {
       "Name": "🟣VIVO [07]",
       "FLAG": "vivo",
+      "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "support.pokemon.com",
+      "TlsIP": "104.24.10.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [08]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://checkout.mediafire.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "checkout.mediafire.com",
+      "TlsIP": "172.64.130.2",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [09]",
+      "FLAG": "vivo",
       "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "onepiece.com",
-      "TlsIP": "172.64.131.2",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [10]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://cdn.jsdelivr.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "cdn.jsdelivr.net",
+      "TlsIP": "104.24.11.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🟣VIVO [11]",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vigia.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vigia.vivo.com.br",
+      "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -281,7 +321,7 @@
     {
       "Name": "🟡OI [03]",
       "FLAG": "oi",
-      "Payload": "GET \/ HTTP\/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "oii.gdmhost.ga",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "104.16.56.6",

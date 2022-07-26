@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "BOTAR LINK DO SMS AQUI",
@@ -30,7 +30,7 @@
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "azure.piuma.xyz",
-      "CheckUser": "http://20.206.241.160:5454/checkUser",
+      "CheckUser": "http://161.35.132.103:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",

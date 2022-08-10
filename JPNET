@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -38,7 +38,7 @@
 "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: b.cort38.tk[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "108.157.150.29",
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy" 

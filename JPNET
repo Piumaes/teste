@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "piuma.xyz",
-      "CheckUser": "http://138.197.166.111:5454/checkUser",
+      "CheckUser": "http://20.197.243.63:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",

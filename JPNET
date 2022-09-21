@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.10",
+  "Version": "1.0.11",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -13,7 +13,7 @@
       "Name": "JPNET",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "a.naotemeume.tk",
+      "ServerIP": "a.cort38.tk",
       "CheckUser": "http://20.197.243.63:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -34,7 +34,17 @@
   ],
   "Networks": [
         { 
-"Name": "VIVO FRONT", 
+"Name": "VIVO DIRECT", 
+"FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: a.cort38.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy" 
+},
+    {
+      "Name": "VIVO FRONT", 
 "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1tvjl6nu39qya.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",

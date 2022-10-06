@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.11",
+  "Version": "1.0.12",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "a.cort38.tk",
-      "CheckUser": "http://20.197.243.63:5454/checkUser",
+      "CheckUser": "http://4.228.109.114:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",

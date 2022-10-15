@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.13",
+  "Version": "1.0.14",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -24,8 +24,8 @@
       "Name": "JPNET",
       "TYPE": "premium",
       "FLAG": "vn.png",
-      "ServerIP": "jpnetbr.online",
-      "CheckUser": "http://45.140.193.91:7299/checkUser",
+      "ServerIP": "a.cort38.tk",
+      "CheckUser": "http://4.228.109.114:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",

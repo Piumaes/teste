@@ -1,1 +1,57 @@
-1234
+{
+  "Version": "1.0.0",
+  "ReleaseNotes": "Nova Atualização Disponível",
+  "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/MAUVADAO",
+  "Sms": "https://bitbin.it/cG8xsDWm/raw/",
+  "EmailFeedback": "",
+  "UrlContato": "https://wa.me/+55989916972",
+  "UrlTermos": "https://site.grupo1.xyz/loja/termos.html",
+  "CheckUser": "true",
+  "UdpPort": "7300;7100;7296;7200;7297;7298;7299;7400",
+  "Servers": [
+    {
+      "Name": "JPNET",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "d2.cort38.tk",
+      "CheckUser": "http://143.244.176.91:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+   },
+    {
+      "Name": "JPNET",
+      "TYPE": "premium",
+      "FLAG": "vn.png",
+      "ServerIP": "a.cort38.tk",
+      "CheckUser": "http://143.244.176.91:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+        { 
+"Name": "VIVO DIGITAL", 
+"FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:d2fh3ttj3i1oji.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "52.85.213.82",
+      "ProxyIP": "52.85.213.82",
+      "ProxyPort": "80",
+      "Info": "Proxy" 
+},
+    {
+      "Name": "VIVO DIRECT BR",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: a.cort38.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "104.18.7.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}

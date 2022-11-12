@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.17",
+  "Version": "1.0.18",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -36,10 +36,10 @@
         { 
 "Name": "VIVO DIRECT", 
 "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1tvjl6nu39qya.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: a.cort38.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "52.85.213.82",
-      "ProxyIP": "52.85.213.82",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
       "ProxyPort": "80",
       "Info": "Proxy" 
 },

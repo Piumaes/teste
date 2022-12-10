@@ -34,12 +34,12 @@
   ],
   "Networks": [
         { 
-"Name": "VIVO DROPBEA", 
+"Name": "VIVO DIRECT", 
 "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: a.naotemeume.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.16.51.111",
-      "ProxyIP": "104.16.51.111",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
       "ProxyPort": "80",
       "Info": "Proxy" 
    },

@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.22",
+  "Version": "1.0.24",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "a.cort38.tk",
-      "CheckUser": "http://143.244.176.91:5454/checkUser",
+      "CheckUser": "http://143.198.227.49:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -38,8 +38,8 @@
 "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: a.naotemeume.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "104.16.53.111",
+      "TlsIP": "198.217.251.251",
+      "ProxyIP": "198.217.251.251",
       "ProxyPort": "80",
       "Info": "Proxy" 
    },

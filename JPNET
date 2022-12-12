@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.25",
+  "Version": "1.0.26",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -38,8 +38,8 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: a.naotemeume.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI": "",
-      "TlsIP": "198.217.251.250",
-      "ProxyIP": "198.217.251.250",
+      "TlsIP": "104.16.51.111",
+      "ProxyIP": "104.16.51.111",
       "ProxyPort": "80",
       "Info": "Proxy"
 },

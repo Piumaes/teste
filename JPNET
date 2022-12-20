@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.27",
+  "Version": "1.0.28",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "a.cort38.tk",
-      "CheckUser": "http://143.198.227.49:5454/checkUser",
+      "CheckUser": "http://200.98.160.186:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -34,9 +34,29 @@
   ],
   "Networks": [
         {
-        "Name": "VIVO EASY",
+"Name":"VIVO TLS 01",
+"FLAG":"vivo",
+"Payload":"TRUE-CONTROL / [protocol][crlf]Host: h.palio977.tk[crlf]Upgrade: websocket[crlf][crlf]",
+"SNI":"h.palio977.tk",
+"TlsIP":"104.16.51.111",
+"ProxyIP":"",
+"ProxyPort":"443",
+"Info":"Tlsws"
+},
+{ 
+"Name":"VIVO TLS 02",
+"FLAG":"vivo",
+"Payload":"TRUE-CONTROL / [protocol][crlf]Host: h.palio977.tk[crlf]Upgrade: websocket[crlf][crlf]",
+"SNI":"h.palio977.tk",
+"TlsIP":"104.16.53.111",
+"ProxyIP":"",
+"ProxyPort":"443",
+"Info":"Tlsws"
+},
+{
+      "Name": "VIVO SQUID",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: a.naotemeume.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.16.51.111",
       "ProxyIP": "104.16.51.111",
@@ -46,7 +66,7 @@
     {
 "Name": "VIVO DIRECT", 
 "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: a.naotemeume.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.16.53.111",
       "ProxyIP": "104.16.53.111",
@@ -55,7 +75,7 @@
    },
     {
       "Name": "VIVO CLOUDFRONT", 
-"FLAG": "vivo",
+      "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1tvjl6nu39qya.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "13.227.126.65",

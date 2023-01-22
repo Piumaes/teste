@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.28",
+  "Version": "1.0.29",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/JPNET",
   "Sms": "https://bitbin.it/cG8xsDWm/raw/",
@@ -54,23 +54,33 @@
 "Info":"Tlsws"
 },
 {
-      "Name": "VIVO SQUID",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "104.16.51.111",
-      "ProxyIP": "104.16.51.111",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
-    {
-"Name": "VIVO DIRECT", 
+"Name": "VIVO SQUID",
 "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Upgrade: websocket[crlf][crlf]",
+"Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+"SNI": "",
+"TlsIP": "104.16.51.111",
+"ProxyIP": "104.16.51.111",
+"ProxyPort": "2052",
+"Info": "Proxy"
+},
+{
+"Name": "VIVO DIRECT 1", 
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "104.16.53.111",
+"ProxyIP": "104.16.53.111",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+{
+"Name": "VIVO DIRECT 2", 
+"FLAG": "vivo",
+"Payload": "GET / HTTP/1.1[crlf]Host: h.palio977.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.16.53.111",
       "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
+      "ProxyPort": "8880",
       "Info": "Proxy" 
    },
     {

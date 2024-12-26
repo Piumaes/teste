@@ -1,5 +1,5 @@
 {
-  "Version": "1",
+  "Version": "2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "",
@@ -175,17 +175,17 @@
       "Info": "Proxy"
      },
      {
-      "Name": "VIVO PROMOÇÃO 13",
+      "Name": "VIVO bra.hackkcah.uk",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1          Host: bra.hackkcah.uk                Connection: Upgrade                 Upgrade: websocket                 User-Agent: Googlebot/2.1 (+       http://www.google.com/bot.          html)[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.17.64.225",
-      "ProxyIP": "104.17.64.225",
+      "TlsIP": "104.17.70.206",
+      "ProxyIP": "104.17.70.206",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
      {
-      "Name": "VIVO bra.hackkcah.uk",
+      "Name": "VIVO bra.hackkcah.uk 2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -195,12 +195,12 @@
       "Info": "Proxy"
      },
      {
-     "Name": "VIVO [01]",
+     "Name": "VIVO bra.hackkcah.uk 3",
      "FLAG": "vivo",
-     "Payload": "ACL wss://bra.hackkcah.uk HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+     "Payload": "GET / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
      "SNI":"",
-     "TlsIP":"141.193.213.10",
-     "ProxyIP": "141.193.213.10",
+     "TlsIP":"104.17.70.206",
+     "ProxyIP": "104.17.70.206",
      "ProxyPort": "80",
      "Info": "Proxy"
     

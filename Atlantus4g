@@ -1,5 +1,5 @@
 {
-  "Version": "0",
+  "Version": "1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "",
@@ -17,8 +17,8 @@
       "CheckUser": "http://207.174.28.38:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "fastssh.com-luciano",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
    },
     {
       "Name": "BR",
@@ -185,12 +185,12 @@
       "Info": "Proxy"
      },
      {
-      "Name": "VIVO PROMOÇÃO 14",
+      "Name": "VIVO bra.hackkcah.uk",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.18.33.113",
-      "ProxyIP": "104.18.33.113",
+      "TlsIP": "104.26.5.32",
+      "ProxyIP": "104.26.5.32",
       "ProxyPort": "80",
       "Info": "Proxy"
      },

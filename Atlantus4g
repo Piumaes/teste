@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "",
@@ -36,7 +36,7 @@
         { 
       "Name": "VIVO PROMOÇÃO 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.26.5.32",
       "ProxyIP": "104.26.5.32",
@@ -46,7 +46,7 @@
       {
       "Name": "VIVO PROMOÇÃO 2", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "141.193.213.10",
       "ProxyIP": "141.193.213.10",
@@ -56,17 +56,17 @@
       {
       "Name": "VIVO PROMOÇÃO 3", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.18.37.248",
-      "ProxyIP": "104.18.37.248",
+      "TlsIP": "104.17.73.206",
+      "ProxyIP": "104.17.73.206",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
       {
       "Name": "VIVO PROMOÇÃO 4",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.17.70.206",
       "ProxyIP": "104.17.70.206",
@@ -76,7 +76,7 @@
       {
       "Name": "VIVO PROMOÇÃO 5",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.17.71.206",
       "ProxyIP": "104.17.71.206",
@@ -86,7 +86,7 @@
       {
          "Name": "VIVO PROMOÇÃO 6",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: piuma.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.17.72.206",
       "ProxyIP": "104.17.72.206",
@@ -94,7 +94,7 @@
       "Info": "Proxy"
       },
       {
-         "Name": "VIVO SERVIDOR RUSSO",
+         "Name": "VIVO bra.hackkcah",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -104,7 +104,7 @@
       "Info": "Proxy"
       },
       {
-         "Name": "VIVO EMERGÊNCIA",
+         "Name": "VIVO bra.hackkcah",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -248,8 +248,8 @@
        {
       "Name": "VIVO SSL 1",
       "FLAG": "vivo",
-      "Payload": "ACL wss://piuma.shop/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
-      "SNI": "piuma.shop",
+      "Payload": "ACL wss://sv1.reselltproject.store/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
+      "SNI": "sv1.reselltproject.store",
       "TlsIP": "104.17.64.225",
       "ProxyIP": "104.17.64.225",
       "ProxyPort": "443",
@@ -258,8 +258,8 @@
        {
       "Name": "VIVO SSL 2",
       "FLAG": "vivo",
-      "Payload": "ACL wss://piuma.shop/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
-      "SNI": "piuma.shop",
+      "Payload": "ACL wss://sv1.reselltproject.store/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
+      "SNI": "sv1.reselltproject.store",
       "TlsIP": "104.18.33.113",
       "ProxyIP": "104.18.33.113",
       "ProxyPort": "443",
@@ -268,8 +268,8 @@
        {
       "Name": "VIVO SSL 3",
       "FLAG": "vivo",
-      "Payload": "ACL wss://piuma.shop/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
-      "SNI": "piuma.shop",
+      "Payload": "ACL wss://sv1.reselltproject.store/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
+      "SNI": "sv1.reselltproject.store",
       "TlsIP": "162.159.138.6",
       "ProxyIP": "162.159.138.6",
       "ProxyPort": "443",
@@ -278,8 +278,8 @@
        {
       "Name": "VIVO SSL 4",
       "FLAG": "vivo",
-      "Payload": "GET ws://piuma.shop HTTP/1.1\nHost: piuma.shop \nUpgrade: ws\n\n",
-      "SNI": "piuma.shop",
+      "Payload": "GET ws://sv1.reselltproject.store HTTP/1.1\nHost: sv1.reselltproject.store \nUpgrade: ws\n\n",
+      "SNI": "sv1.reselltproject.store",
       "TlsIP": "141.193.213.10",
       "ProxyIP": "141.193.213.10",
       "ProxyPort": "443",

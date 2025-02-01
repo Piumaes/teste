@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL",
   "UrlUpdate": "https://raw.githubusercontent.com/Piumaes/teste/main/Atlantus4g",
   "Sms": "",
@@ -36,7 +36,7 @@
         { 
       "Name": "VIVO PROMOÇÃO 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ov.maroba.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.26.5.32",
       "ProxyIP": "104.26.5.32",
@@ -46,7 +46,7 @@
       {
       "Name": "VIVO PROMOÇÃO 2", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ov.maroba.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "141.193.213.10",
       "ProxyIP": "141.193.213.10",
@@ -56,7 +56,7 @@
       {
       "Name": "VIVO PROMOÇÃO 3", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ov.maroba.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.17.73.206",
       "ProxyIP": "104.17.73.206",
@@ -66,7 +66,7 @@
       {
       "Name": "VIVO PROMOÇÃO 4",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: sv1.reselltproject.store[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ov[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.17.70.206",
       "ProxyIP": "104.17.70.206",
@@ -208,7 +208,7 @@
      {
      "Name": "VIVO fastssh 1",
      "FLAG": "vivo", 
-     "Payload": "ACL wss://us1.sshws.net HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
+     "Payload": "ACL wss://ov.maroba.shop HTTP/1.1[lf]Host: [rotate=api.digital.cname.vivo.com.br;api.digital.vivo.com.br;autenticaint.cname.vivo.com.br;autenticaint.vivo.com.br;auth.vivo.com.br;celular.vivo.com.br;gedoc.cname.vivo.com.br;lojaempresas.vivo.com.br;recarga.vivo.com.br][lf]Upgrade: Websocket[lf][split][lf]",
      "SNI": "",
      "TlsIP": "141.193.213.10",
      "ProxyIP": "141.193.213.10",
@@ -258,8 +258,8 @@
        {
       "Name": "VIVO SSL 2",
       "FLAG": "vivo",
-      "Payload": "ACL wss://sv1.reselltproject.store/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
-      "SNI": "sv1.reselltproject.store",
+      "Payload": "ACL wss://ov.maroba.shop/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
+      "SNI": "ov.maroba.shop",
       "TlsIP": "104.18.33.113",
       "ProxyIP": "104.18.33.113",
       "ProxyPort": "443",
@@ -268,8 +268,8 @@
        {
       "Name": "VIVO SSL 3",
       "FLAG": "vivo",
-      "Payload": "ACL wss://sv1.reselltproject.store/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
-      "SNI": "sv1.reselltproject.store",
+      "Payload": "ACL wss://ov.maroba.shop/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]loja.piuma.shop[crlf][crlf]",
+      "SNI": "ov.maroba.shop",
       "TlsIP": "162.159.138.6",
       "ProxyIP": "162.159.138.6",
       "ProxyPort": "443",
@@ -278,8 +278,8 @@
        {
       "Name": "VIVO SSL 4",
       "FLAG": "vivo",
-      "Payload": "GET ws://sv1.reselltproject.store HTTP/1.1\nHost: sv1.reselltproject.store \nUpgrade: ws\n\n",
-      "SNI": "sv1.reselltproject.store",
+      "Payload": "GET ws://ov.maroba.shop HTTP/1.1\nHost: ov.maroba.shop \nUpgrade: ws\n\n",
+      "SNI": "ov.maroba.shop",
       "TlsIP": "141.193.213.10",
       "ProxyIP": "141.193.213.10",
       "ProxyPort": "443",

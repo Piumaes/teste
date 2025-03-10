@@ -34,22 +34,22 @@
   ],
   "Networks": [
         { 
-      "Name": "VIVO PROMOÇÃO 1",
+      "Name": "VIVO EASY 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ov.maroba.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host:maroba.shop [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "104.26.5.32",
-      "ProxyIP": "104.26.5.32",
+      "TlsIP": "legado.vivo.com.br",
+      "ProxyIP": "172.64.150.8",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
       {
-      "Name": "VIVO PROMOÇÃO 2", 
+      "Name": "VIVO EASY 2", 
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ov.maroba.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host:maroba.shop [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "141.193.213.10",
-      "ProxyIP": "141.193.213.10",
+      "TlsIP": "vigia.vivo.com.br",
+      "ProxyIP": "104.18.37.248",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
